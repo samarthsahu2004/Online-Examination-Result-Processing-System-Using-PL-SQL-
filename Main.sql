@@ -358,7 +358,7 @@ FOR EACH ROW
 DECLARE
     v_student_id NUMBER;
     v_total_marks NUMBER;
-    v_percentage NUMB-ER;
+    v_percentage NUMBER;
     v_grade VARCHAR2(2);
     v_status VARCHAR2(10);
     v_subject_count NUMBER;
